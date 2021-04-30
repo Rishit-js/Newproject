@@ -1,0 +1,26 @@
+
+*{
+    box-sizing: border-box;
+}
+
+#about {
+    padding: 20px;
+}
+img {
+    opacity: 0.8;
+    height: 800px;
+}
+p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 20px;
+
+}
+
+svg {
+    margin-top: 10px;
+}
+
+#footer {
+    height: 200px;
+    margin-bottom: 0px;
+}
